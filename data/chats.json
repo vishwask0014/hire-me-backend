@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2959058a-50a1-48ee-b242-3f2e32980a0e",
+    "requirementId": "19a50b16-5b27-4c10-a23c-5b14e9ee1b4f",
+    "hirerId": "c6d464ab-15c8-4d1e-a1b2-be936388f83d",
+    "freelancerId": "a777963e-5f17-4dac-92cb-ecac7edcbb19",
+    "messages": [
+      {
+        "id": "07fb4793-8431-4738-8150-9bab3c47dfa5",
+        "senderId": "a777963e-5f17-4dac-92cb-ecac7edcbb19",
+        "text": "testing chat screem",
+        "createdAt": "2026-02-28T16:11:09.357Z"
+      },
+      {
+        "id": "9b0d48ad-8ae5-415b-baee-f6c74d5bc12e",
+        "senderId": "c6d464ab-15c8-4d1e-a1b2-be936388f83d",
+        "text": "hire",
+        "createdAt": "2026-02-28T16:12:21.577Z"
+      },
+      {
+        "id": "4afdc545-3a9f-4b26-b197-097fa532362e",
+        "senderId": "c6d464ab-15c8-4d1e-a1b2-be936388f83d",
+        "text": "lets check is working",
+        "createdAt": "2026-02-28T16:27:16.560Z"
+      }
+    ],
+    "createdAt": "2026-02-28T16:10:41.463Z",
+    "updatedAt": "2026-02-28T16:27:16.560Z"
+  }
+]

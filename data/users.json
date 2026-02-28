@@ -1,0 +1,20 @@
+[
+  {
+    "id": "c6d464ab-15c8-4d1e-a1b2-be936388f83d",
+    "name": "vishwas",
+    "email": "hire@yopmail.com",
+    "phone": "9898989898",
+    "password": "vishwas",
+    "userType": "hirer",
+    "createdAt": "2026-02-28T11:15:50.381Z"
+  },
+  {
+    "id": "a777963e-5f17-4dac-92cb-ecac7edcbb19",
+    "name": "vishwas",
+    "email": "freelancer@yopmail.com",
+    "phone": "898989888",
+    "password": "vishwas",
+    "userType": "freelancer",
+    "createdAt": "2026-02-28T16:10:08.905Z"
+  }
+]

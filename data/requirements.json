@@ -1,0 +1,14 @@
+[
+  {
+    "id": "19a50b16-5b27-4c10-a23c-5b14e9ee1b4f",
+    "hirerId": "c6d464ab-15c8-4d1e-a1b2-be936388f83d",
+    "title": "want a photographer for wedding shoot",
+    "description": "some description for the weeding shoot",
+    "budget": "1550",
+    "skills": [
+      "shoot attention to details"
+    ],
+    "location": "india",
+    "createdAt": "2026-02-28T11:23:49.173Z"
+  }
+]
